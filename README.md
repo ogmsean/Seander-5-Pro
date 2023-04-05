@@ -1,4 +1,4 @@
-# Seander-5-Pro
+# Seander-5 Pro
 
 This document outlines the upgrades and links to files for the enhancement of the Creality Ender-5 or Ender-5 Pro.
 
