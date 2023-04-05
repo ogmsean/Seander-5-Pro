@@ -10,12 +10,13 @@ Hotend Shroud + Probe Bracket: [Micro Swiss Ender-5 NG Extruder - Probe Brackets
 Stepper Mount: [Stepper Clip Mount with Cable Chain Guides (Seander-5) by MakerM](https://www.printables.com/model/385477-stepper-clip-mount-with-cable-chain-guides-seander)
 
 Cable Chain System: (Remix - Ender 5 Plus Cable Chain Tray by theafttab) Ender 5 Pro Cable Chain System (Seander-5) by MakerM |
+
     Cable Chain Track Support + Clips: Cable Chain Track Support and USB Clips (Seander-5) by MakerM |
     X + Y Stops: X + Y Stops with Covers (Seander-5) by MakerM | 
     X Stepper Cover: Cable Chain Mount X Stepper Cover (Seander-5 ) by MakerM |
     X + Y Cable Chain Ends: X + Y Cable Chain End Brackets (Seander-5) by MakerM |
     
-Cable Chain:[Ender 3 Cable Chain by johnniewhiskey](https://www.thingiverse.com/thing:2920060)
+Cable Chain: [Ender 3 Cable Chain by johnniewhiskey](https://www.thingiverse.com/thing:2920060)
 
 Hotbed: [24V Heated Bed For Creality Ender 3 5 And Pro by GulfCoast Robotics](https://gulfcoast-robotics.com/collections/heated-beds/products/aluminum-build-plate-and-24v-200w-silicone-heater-for-heated-bed-creality-ender-3?variant=39979294982226)
 
