@@ -2,6 +2,9 @@
 
 This document outlines the upgrades and links to files for the enhancement of the Creality Ender-5 or Ender-5 Pro.
 
+![Seander-5 Pro Top View as built by MakerM](https://github.com/ogmsean/Seander-5-Pro/blob/main/Seander-5%20Pro%20Top.jpg)
+![Seander-5 Pro as built by MakerM](https://github.com/ogmsean/Seander-5-Pro/blob/main/Seander-5%20Pro.jpg)
+
 - Hotend: [Micro Swiss NG Direct Drive by Micro Swiss](https://store.micro-swiss.com/collections/extruders/products/micro-swiss-ng-direct-drive-extruder-for-creality-ender-5)
 - Hotend Shroud + Probe Bracket: [Micro Swiss Ender-5 NG Extruder - Probe Brackets and Fan Shroud by MicroSwiss](https://www.thingiverse.com/thing:5586646)
 - Stepper Mount: [Stepper Clip Mount with Cable Chain Guides (Seander-5) by MakerM](https://www.printables.com/model/385477-stepper-clip-mount-with-cable-chain-guides-seander)
