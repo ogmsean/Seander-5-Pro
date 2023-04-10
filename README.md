@@ -17,8 +17,7 @@ This document outlines the upgrades and links to files for the enhancement of th
 - Hotbed: [24V Heated Bed For Creality Ender 3 5 And Pro by GulfCoast Robotics](https://gulfcoast-robotics.com/collections/heated-beds/products/aluminum-build-plate-and-24v-200w-silicone-heater-for-heated-bed-creality-ender-3?variant=39979294982226)
 - Hotbed Cable Chain Guide: Hotbed Cable Chain Guide (Seander-5) by MakerM
 - Hotbed Supports: [Ender 5 bed supports (The Original "Super Struts") by jumpshoutmedia](https://www.thingiverse.com/thing:3479330)
-- Spool Holder: [TUSH FT - Spool Holder - Fat Tracks edition by wavexx](https://www.thingiverse.com/thing:3353204)
-- Spool Holder Clip: TUSH FT Base by MakerM
+- Spool Holder: [Spool Holder by Hedberg](https://www.printables.com/model/73909-spool-holder)
 - Extrusion Covers: [2020 Extrusion profile cover (Nut 6) by anton610](https://www.thingiverse.com/thing:1478147)
 - Controller Box: Ender 5-Pro Controller Box (Seander-5) by MakerM
 - NeoPixel Mount: [NeoPixel Clip Mount (Seander-5) by MakerM](https://www.printables.com/model/386543-neopixel-clip-mount-seander-5)
