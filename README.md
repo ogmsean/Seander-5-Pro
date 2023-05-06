@@ -7,7 +7,7 @@ This document outlines the upgrades and links to files for the enhancement of th
 
 - Hotend: [Micro Swiss NG Direct Drive by Micro Swiss](https://store.micro-swiss.com/collections/extruders/products/micro-swiss-ng-direct-drive-extruder-for-creality-ender-5)
 - Hotend Shroud + Probe Bracket: [Micro Swiss Ender-5 NG Extruder - Probe Brackets and Fan Shroud by MicroSwiss](https://www.thingiverse.com/thing:5586646)
-- Stepper Mount: [Stepper Clip Mount with Cable Chain Guides (Seander-5) by MakerM](https://www.printables.com/model/385477-stepper-clip-mount-with-cable-chain-guides-seander)
+- Stepper Mount: [Stepper Clip Mount with Cable Chain Guides (Seander-5) by MakerM](https://github.com/ogmsean/Seander-5-Pro/tree/main/STLs/Stepper%20Clip%20Mount%20with%20Cable%20Chain%20Guides%20(Seander-5))
 - Cable Chain System: (Remix - Ender 5 Plus Cable Chain Tray by theafttab) Ender 5 Pro Cable Chain System (Seander-5) by MakerM
   - Cable Chain Track Support + Clips: Cable Chain Track Support and USB Clips (Seander-5) by MakerM
   - X + Y Stops: X + Y Stops with Covers (Seander-5) by MakerM
@@ -20,7 +20,7 @@ This document outlines the upgrades and links to files for the enhancement of th
 - Spool Holder: [Spool Holder by Hedberg](https://www.printables.com/model/73909-spool-holder)
 - Extrusion Covers: [2020 Extrusion profile cover (Nut 6) by anton610](https://www.thingiverse.com/thing:1478147)
 - Controller Box: Ender 5-Pro Controller Box (Seander-5) by MakerM
-- NeoPixel Mount: [NeoPixel Clip Mount (Seander-5) by MakerM](https://www.printables.com/model/386543-neopixel-clip-mount-seander-5)
+- NeoPixel Mount: [NeoPixel Clip Mount (Seander-5) by MakerM](https://github.com/ogmsean/Seander-5-Pro/tree/main/STLs/NeoPixel%20Clip%20Mount%20(Seander-5))
 
 This is part of a complete system given the name Seander-5 Pro which is based on the Ender-5 Pro,
 please see Git hub repository for full list to build out system or pick whichever parts suit your needs
