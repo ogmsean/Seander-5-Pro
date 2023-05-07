@@ -8,8 +8,8 @@ This document outlines the upgrades and links to files for the enhancement of th
 - Hotend: [Micro Swiss NG Direct Drive by Micro Swiss](https://store.micro-swiss.com/collections/extruders/products/micro-swiss-ng-direct-drive-extruder-for-creality-ender-5)
 - Hotend Shroud + Probe Bracket: [Micro Swiss Ender-5 NG Extruder - Probe Brackets and Fan Shroud by MicroSwiss](https://www.thingiverse.com/thing:5586646)
 - Stepper Mount: [Stepper Clip Mount with Cable Chain Guides by MakerM](https://github.com/ogmsean/Seander-5-Pro/tree/main/STLs/Stepper%20Clip%20Mount%20with%20Cable%20Chain%20Guides%20(Seander-5))
-- Cable Chain System: (Remix - Ender 5 Plus Cable Chain Tray by theafttab) Ender 5 Pro Cable Chain System (Seander-5) by MakerM
-  - Cable Chain Track Support + Clips: Cable Chain Track Support and USB Clips by MakerM
+- Cable Chain System: Ender 5 Pro Cable Chain System by MakerM
+  - Cable Chain Track Support + Clips: (Remix - Ender 5 Plus Cable Chain Tray by theafttab) to Cable Chain Track Support and USB Clips by MakerM
   - X + Y Stops: X + Y Stops with Covers by MakerM
   - X Stepper Cover: Cable Chain Mount X Stepper Cover by MakerM
   - X + Y Cable Chain Ends: X + Y Cable Chain End Brackets by MakerM
