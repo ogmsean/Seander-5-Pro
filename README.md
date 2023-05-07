@@ -23,5 +23,4 @@ This document outlines the upgrades and links to files for the enhancement of th
 - Controller Box: Ender 5-Pro Controller Box by MakerM
 - NeoPixel Mount: [NeoPixel Clip Mount by MakerM](https://github.com/ogmsean/Seander-5-Pro/tree/main/STLs/NeoPixel%20Clip%20Mount%20(Seander-5))
 
-This is part of a complete system given the name Seander-5 Pro which is based on the Ender-5 Pro,
-please see Git hub repository for full list to build out system or pick whichever parts suit your needs
+This is part of a complete system given the name Seander-5 Pro which is based on the Ender-5 Pro, you can build the complete system or pick whichever parts suit your needs.
